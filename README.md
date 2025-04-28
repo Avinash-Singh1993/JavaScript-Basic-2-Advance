@@ -17,7 +17,7 @@ Here, you'll find projects crafted with **HTML**, **CSS**, and **JavaScript**, d
 ## 🎥 Live Demo Preview
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Project Preview GIF" width="600px">
+  <img src="https://giphy.com/gifs/BrainpullMarketing-marketing-ux-brainpull-38pRVNXDlIafsG1c4f" alt="Project Preview GIF" width="600px">
 </p>
 
 ---
