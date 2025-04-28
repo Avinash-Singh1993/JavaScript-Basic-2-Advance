@@ -16,8 +16,10 @@ Here, you'll find projects crafted with **HTML**, **CSS**, and **JavaScript**, d
 
 ## 🎥 Live Demo Preview
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/38pRVNXDlIafsG1c4f" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/BrainpullMarketing-marketing-ux-brainpull-38pRVNXDlIafsG1c4f">via GIPHY</a></p>
+
 <p align="center">
-  <img src="[https://giphy.com/gifs/BrainpullMarketing-marketing-ux-brainpull-38pRVNXDlIafsG1c4f](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhkZjVqOHFyd3h1dmU0M2t2bzJwN2xhOTR3Mmd3bWxzOHBkcHN2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/38pRVNXDlIafsG1c4f/giphy.gif)" alt="Project Preview GIF" width="600px">
+    <img src="chttps://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Project Preview GIF" width="600px">
 </p>
 
 ---
